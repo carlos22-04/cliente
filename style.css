@@ -1,0 +1,39 @@
+/**
+*estos son los estilos que se ledio a las tablas botones y otros objetos de la pagina
+*/
+#tablaclientes{
+	border: 1px solid #999999;
+	border-radius: 20px;
+	box-shadow: rgb(150,150,150);
+	text-align: center;
+	padding: 15px; 
+	background: #B0C4DE; 
+}
+.tr1{ 
+	 padding: 15px;  
+	 text-align: center;  
+	 border: 1px solid #999999;
+  	background: #BDB76B; 
+}
+.tbody{
+	background: #3CB371;
+}
+.hipervinculo{
+	font-weight: bold;
+    cursor: pointer;
+    padding: 1px;
+    margin: 0 10px 10px 0;
+    border: 1px solid #ccc;
+    background: #F5FFFA;
+    border-radius: 5px 5px 5px 5px;
+}
+.hipervinculoB{
+	font-weight: bold;
+    cursor: pointer;
+    padding: 1px;
+    margin: 0 10px 10px 0;
+    border: 1px solid #ccc;
+    background: #F5F5DC;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: rgb(150,150,150) 8px 8px;
+}
